@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning Javascript, HTML and Python
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me, comment your email here: https://github.com/BooLightning/BooLightning/discussions
+- 📫 How to reach me, comment your email here: https://github.com/BooLightning/BooLightning/discussions/1
 
 <!---
 BooLightning/BooLightning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
