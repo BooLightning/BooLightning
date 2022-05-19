@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BooLightning
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Javascript, HTML and Python
+- 🌱 I’m currently learning Javascript, HTML, CSS and Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, comment your email here: https://github.com/BooLightning/BooLightning/discussions/1
 
